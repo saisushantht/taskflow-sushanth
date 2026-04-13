@@ -32,7 +32,7 @@ TaskFlow lets users register, log in, create projects, add tasks, and assign the
 Requirements: Docker Desktop (nothing else needed)
 
 ```bash
-git clone https://github.com/your-username/taskflow
+git clone https://github.com/saisushantht/taskflow
 cd taskflow
 docker compose up
 ```
