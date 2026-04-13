@@ -1,0 +1,9 @@
+# Environment
+.env
+
+# Go binaries
+bin/
+*.exe
+
+# OS files
+.DS_Store
